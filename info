@@ -1,0 +1,2 @@
+To enter crontab type "crontab -e"
+"*/5 * * * * [command]" where "5" is 5 minutes that you want that code to run.
